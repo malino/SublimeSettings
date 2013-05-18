@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"AngularJS (CoffeeScript)",
+		"Bower",
+		"CoffeeScript",
+		"Compass",
+		"Emmet",
+		"HTML5",
+		"HtmlTidy",
+		"Jade",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"Less2Css",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"SASS Build",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeOnSaveBuild",
+		"Tag",
+		"Theme - Soda",
+		"Web Inspector"
+	]
+}
